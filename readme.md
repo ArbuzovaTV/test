@@ -1,5 +1,5 @@
-# Hello, world!
+# Hellow world!
 
-i study in Netology
+I study Netology
 
 19.11
